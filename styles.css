@@ -5,8 +5,14 @@ div {
 }
 body {
     background-color: rgb(14 17 22);
+    color: white;
 }
 
 .button {
     color: white;
+}
+
+.directions {
+    color: white;
+
 }
